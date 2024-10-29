@@ -1,6 +1,6 @@
 # API de Gerenciamento de Alunos 🚀
 
-Este projeto é uma API RESTful desenvolvida em Node.js e Express.js para gerenciar uma lista de alunos, com operações de CRUD (Criar, Ler, Atualizar e Deletar) mantidas em memória. Esta API foi projetada para fins de aprendizado e prática.
+Este projeto é uma API RESTful desenvolvida em Node.js e Express.js para gerenciar uma lista de alunos, com operações de CRUD (Criar, Ler, Atualizar e Deletar) mantidas em memória. Esta API foi projetada para fins de aprendizado de desenvolvimento de APIs e consolidar os conceitos de HTTP e métodos REST.
 
 ## Índice 📑
 
