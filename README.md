@@ -104,11 +104,12 @@ Descrição: Remove um aluno específico.
 
 ## Estrutura do Projeto 📂
 
-**```bash
-├── server.js                   # Configuração do servidor e rotas da API
-└── repositories
-  └── alunosRepository.js      # Funções de manipulação de dados dos alunos (CRUD)**
 
+   ├── server.js                            # Configuração do servidor e rotas da API
+   
+   └── repositories
+   
+   └── alunosRepository.js                   # Funções de manipulação de dados dos alunos (CRUD)
 
 ## Tecnologias Utilizadas 🛠️
 - Node.js
